@@ -2,6 +2,8 @@
 
 Simple ALU has be designed with 4 different modes of operation.
 
+EDA Playground link
+https://www.edaplayground.com/x/AQtt
 
 
 TESTBENCH ARCHITECTURE
